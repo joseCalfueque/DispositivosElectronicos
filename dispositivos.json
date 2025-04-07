@@ -1,0 +1,15 @@
+[
+  {
+    "resolucionPantalla": "1490",
+    "tipoTeclado": "tactil",
+    "bateria": 5500,
+    "marca": "lenovo",
+    "modelo": "tap m10",
+    "año": 2019,
+    "ram": 4,
+    "almacenamiento": 157,
+    "procesador": "2",
+    "precio": 300,
+    "stock": 5
+  }
+]
